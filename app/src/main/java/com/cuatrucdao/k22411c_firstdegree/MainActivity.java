@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
         Locale locale = new Locale(languageCode);
         Locale.setDefault(locale);
 
-        Configuration config = new Configuration();  // ✅ declare config properly
+        Configuration config = new Configuration();  
         config.setLocale(locale);
 
         // Apply the new configuration
