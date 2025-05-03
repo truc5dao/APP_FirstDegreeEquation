@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">K22411C_BacThangNhat</string>
+    <string name="title_app">bậc nhất</string>
+    <string name="title_coefficient_a">Hệ số a:</string>
+    <string name="title_coefficient_b">Hệ số b:</string>
+    <string name="title_solution">Giải pháp:</string>
+    <string name="title_next">Tiếp theo</string>
+    <string name="title_exit">Thoát</string>
+    <string name="title_result">Kết quả:</string>
+    <string name="title_infinity">Vô số nghiệm</string>
+    <string name="title_no_solution">Vô nghiệm</string>
+</resources>
